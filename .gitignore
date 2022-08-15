@@ -1,0 +1,12 @@
+.idea
+*.iml
+target
+**/test-build.properties
+
+# vim temp files !
+**/.*.swp
+**/*~
+
+**/catalina.base_IS_UNDEFINED/*
+inrights-frontend
+/inrights-vue/
